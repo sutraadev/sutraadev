@@ -31,7 +31,7 @@
 
 ### 📫 Connect
 I keep things simple — you can reach me at  
-📧 **sutraadev@gmail.com**
+📧 **sutraadev25@gmail.com**
 
 ---
 
