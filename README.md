@@ -1,3 +1,13 @@
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sutraadev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutraadev&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+
 # 👋 Hi, I'm Sutraadev
 
 🪔 *Weaving logic, data, and intelligence into simple systems.*
